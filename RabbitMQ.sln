@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductoMQ", "ProductoMQ\ProductoMQ.csproj", "{3D331058-FE03-426C-9F33-6A0B84880390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumidorDEMO", "ConsumidorDEMO\ConsumidorDEMO.csproj", "{EE91F389-5873-4243-8AA1-FF102070B8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D331058-FE03-426C-9F33-6A0B84880390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D331058-FE03-426C-9F33-6A0B84880390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D331058-FE03-426C-9F33-6A0B84880390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D331058-FE03-426C-9F33-6A0B84880390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE91F389-5873-4243-8AA1-FF102070B8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE91F389-5873-4243-8AA1-FF102070B8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE91F389-5873-4243-8AA1-FF102070B8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE91F389-5873-4243-8AA1-FF102070B8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B07C4B-DCF3-4DBB-8C4F-0E77431F0C22}
+	EndGlobalSection
+EndGlobal
